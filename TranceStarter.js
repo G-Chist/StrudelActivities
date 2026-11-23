@@ -1,0 +1,3 @@
+$: n("<<0 5 0 8 3>*16 <0 4 0 9 7>*16>").scale("g3:minor").orbit(5).sound("supersaw").postgain(0.2)
+
+$: s("bd*4").bank("RolandTR909").distort(2).duck("3:4:5:6").duckdepth(0.7).postgain(0.2)
